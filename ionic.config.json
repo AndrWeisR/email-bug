@@ -1,0 +1,7 @@
+{
+  "name": "email-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

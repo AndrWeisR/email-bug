@@ -1,0 +1,7 @@
+{
+  "appId": "email.bug",
+  "appName": "email-bug",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
